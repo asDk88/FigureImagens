@@ -1,0 +1,25 @@
+.FI_capaFull{
+	width: 100%;
+	box-sizing: border-box;
+	-o-box-sizing: border-box;
+	-moz-box-sizing: border-box;
+	-webkit-box-sizing: border-box;
+	text-align: center;
+}
+
+.FI_capaFull > div{
+	width: 48%;
+	display: inline-block;
+	vertical-align: top;
+	background-color: #ffffff;
+	box-sizing: border-box;
+	-o-box-sizing: border-box;
+	-moz-box-sizing: border-box;
+	-webkit-box-sizing: border-box;
+}
+
+.FI_capaTarget{
+	min-width: 400px;
+	height: 300px;
+	border: 1px solid #0D45BE;
+}
